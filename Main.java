@@ -1,3 +1,7 @@
+// Name: Karne Karthikeshwar Reddy
+// PRN: 23070126055
+// Batch: SY - AIML A3
+
 import java.util.Scanner;
 
 public class Main {
